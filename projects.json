@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Smart Parking System",
+    "type": "Java web application",
+    "description": "Online vehicle slot booking system with real-time slot availability tracking, smart reservation logic, and live status updates.",
+    "stack": [
+      "Java",
+      "Servlets",
+      "MySQL"
+    ],
+    "outcome": "Helps reduce parking chaos by letting users reserve and track slots online."
+  },
+  {
+    "title": "Yoga Recommendation App",
+    "type": "Spring Boot application",
+    "description": "Web application that recommends personalized yoga poses and Ayurvedic remedies with a simple HTML/CSS frontend and MySQL-backed data.",
+    "stack": [
+      "Spring Boot",
+      "HTML",
+      "CSS",
+      "MySQL"
+    ],
+    "outcome": "Combines wellness guidance with a practical Java backend implementation."
+  },
+  {
+    "title": "Task Management App",
+    "type": "Full-stack internship project",
+    "description": "Task assignment, progress tracking, and role-based authentication system built during the Java Full Stack Development internship.",
+    "stack": [
+      "Java",
+      "Spring Boot",
+      "Servlets",
+      "MySQL",
+      "Role-Based Auth"
+    ],
+    "outcome": "Supports team collaboration through structured task ownership and progress visibility."
+  }
+]

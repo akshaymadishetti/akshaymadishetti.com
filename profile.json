@@ -1,0 +1,56 @@
+{
+  "name": "Akshay Madishetti",
+  "role": "Java Full Stack Developer",
+  "tagline": "Aspiring Java developer focused on scalable backend systems.",
+  "availability": "Open to internships, full-time roles, collaborations, and conversations.",
+  "location": "Hyderabad, Telangana",
+  "phone": "+91 9032121793",
+  "email": "akshaymadishetti1@gmail.com",
+  "education": "B.Tech CSE, Malla Reddy Engineering College, 2022-2026",
+  "bio": "Final-year Computer Science student with strong foundations in Java, OOP, SQL, Data Structures, Spring Boot, Servlets, and MySQL.",
+  "stats": [
+    {
+      "label": "CGPA",
+      "value": "8.3"
+    },
+    {
+      "label": "Projects",
+      "value": "3"
+    },
+    {
+      "label": "Internship",
+      "value": "3mo"
+    },
+    {
+      "label": "Graduation",
+      "value": "2026"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Servlets",
+    "Spring JDBC",
+    "MySQL",
+    "Git",
+    "OOP",
+    "Data Structures",
+    "REST API Design",
+    "HTML",
+    "CSS"
+  ],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akshaymadishetti"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/akshaymadishetti"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:akshaymadishetti1@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "akshay-madishetti-website",
+  "version": "1.0.0",
+  "description": "Full-stack personal portfolio website with a Node.js backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "node"
+  ],
+  "author": "Akshay Madishetti",
+  "license": "MIT"
+}
